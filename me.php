@@ -11,10 +11,11 @@ Since fall of 2013, I've also been involved in managing a public Minecraft serve
 
 This blog is mainly a place for me to collect my thoughts. I use it to keep track of the various projects I do and what I learn from them, otherwise I would almost certainly forget.  Normally my articles are about technology, but sometimes personal stuff turns up here too.<br><br>
 
-But what's with that name you use, suBDavis?  Well, it just comes from "su bdavis", the Unix command for logging myself in.  Rather than trying to pronounce that, other players in game chat just shorten it to "sub", which just sort of stuck.<br><br>
+But what's with that handle you use, suBDavis?  Well, it just comes from "su bdavis", the Unix command for logging myself in.  Rather than trying to pronounce that, other players in game chat just shorten it to "sub", which sort of stuck.<br><br>
 
 Email me at <a href="mailto:bdavis@redspin.net">bdavis@redspin.net</a><br>
-Or tweet me <a href="http://twitter.com/subdavis">@subdavis</a></p>
+Or tweet me <a href="http://twitter.com/subdavis">@subdavis</a><br>
+And look, <a href="https://github.com/subdavis">GitHub</a>!</p>
 <?php
 include 'footer.php';
 echo $footer;
