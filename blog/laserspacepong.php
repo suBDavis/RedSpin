@@ -11,7 +11,7 @@ echo $header;
 <p><a href="http://github.com/calcdude84se/LasersInSpace--andPong">GitHub Repository</a>
 
 <p>You WILL need to have Java 7.</p>
-<p>For MAC/Linux - get the Java Archive, then open the Terminal application and <br>type "java -jar ", then drag the .jar you downloaded into the terminal.  Make sure there is a space between "-jar" and the path.</p>
+<p>For MAC/Linux - get the Java archive and open.  You may need to go to security settings and allow all applications.</p>
 <p>For Windows - get the EXE and just double click.</p>
 <?php
 include '../footer.php';
