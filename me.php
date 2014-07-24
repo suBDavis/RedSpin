@@ -13,9 +13,10 @@ This blog is mainly a place for me to collect my thoughts. I use it to keep trac
 
 But what's with that handle you use, suBDavis?  Well, it just comes from "su bdavis", the Unix command for logging myself in.  Rather than trying to pronounce that, other players in game chat just shorten it to "sub", which sort of stuck.<br><br>
 
-Email me at <a href="mailto:bdavis@redspin.net">bdavis@redspin.net</a><br>
+Email me at bdavis<span style='display:none;'>foobar</span>@redspin.net</a><br>
 Or tweet me <a href="http://twitter.com/subdavis">@subdavis</a><br>
-And look, <a href="https://github.com/subdavis">GitHub</a>!</p>
+Me on <a href="https://github.com/subdavis">GitHub</a>!<br>
+My <a href="https://keybase.io/bdavis/key.asc">Public Key</a></p>
 <?php
 include 'footer.php';
 echo $footer;

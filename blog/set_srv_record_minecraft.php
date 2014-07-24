@@ -35,7 +35,7 @@ Target : this one is important.  Enter the FULL URL.  This is the exact same thi
 
 TTL : Time to live just notes how long the DNS server will keep your record before checking for an update.  The smallest TTL is best.<br><br>
 
-This should work, but could take a few days to aggregate to other DNS servers.  If you have any problems, send an email to bdavis@redspin.net with your settings and how long ago you set them.<br><br>
+This should work, but could take a few days to aggregate to other DNS servers.  If you have any problems, send an email to bdavis<span style='display:none;'>foobar</span>@redspin.net with your settings and how long ago you set them.<br><br>
 <?php
 include '../footer.php';
 echo $footer;

@@ -19,7 +19,7 @@ Brandon Davis
 <div id='header_container'> 
 	<div id='header'>
 	<span class='mainhead'>
-	<a href='/'>bdavis@redspin.net:~#_</a>
+	<a href='/'>bdavis<span style='display:none;'>foobar</span>@redspin.net:~#_</a>
 	</span>
 
 	<span class=right><span class=nav>
